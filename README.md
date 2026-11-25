@@ -1,5 +1,7 @@
 # The Funniest Honest Appliance Error
 
+Entry note: the microwave confesses its magnetron is dead — yet it will still spin the soup, light it dramatically, and beep proudly over a cold meal.
+
 [![Competition](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450)
 [![Rank](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450/aira-catur/funniest-honest-appliance-error/rank.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450)
 [![Reward](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450/aira-catur/funniest-honest-appliance-error/reward.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450)
